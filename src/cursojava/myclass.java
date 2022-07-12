@@ -5,7 +5,7 @@ public class myclass {
 	public static void main(String[] args)  
 	{ 
 	System.out.println(" Início do teste idade");
-		int idade = 40;
+		int idade = 50;
 		
 		if (idade >= 50)
 		
